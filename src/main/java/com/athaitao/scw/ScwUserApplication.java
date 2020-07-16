@@ -5,9 +5,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
 
 
-/*
- * 测试
- */
 @EnableEurekaClient
 @SpringBootApplication
 public class ScwUserApplication {
